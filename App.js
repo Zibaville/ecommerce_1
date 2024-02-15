@@ -20,7 +20,7 @@ export default function App() {
               if(route.name === 'Home'){
                 iconName = focused ? 'home' : 'home-outline'
               }else if(route.name === 'Detail'){
-                iconName = focused ? 'pricetag' : 'pricetag-outline'
+                iconName = focused ? 'prictag' : 'pricetag-outline'
               }
               return <Ionicons name={iconName} size={size} color={color}/>
             }
