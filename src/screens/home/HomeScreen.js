@@ -3,7 +3,8 @@ import { View, Text, Image, TouchableOpacity, ScrollView } from 'react-native';
 import { styles } from './style';
 import { products } from '../../products/Products';
 
-const HomeScreen = ({ navigation }) => {
+<<<<<<< HEAD
+const HomeScreen = () => {
 
   return (
     <ScrollView style={styles.container}>

@@ -41,5 +41,11 @@ export const products = [
             price: '$150.99',
             image: require('../../assets/images/w-shoes_1.jpg'),
           }
+          {
+            id: 8,
+              name: 'Product 8',
+              price: '$150.99',
+              image: require('../../assets/images/Zibaville-1.jpg'),
+          }
     // Add more products as needed
   ];
